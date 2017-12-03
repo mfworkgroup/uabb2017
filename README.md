@@ -1,7 +1,11 @@
-# 阿里云物联网套件
+# UABB Raspberry Pi Wifi Data Logging + Aliyun IoT
+
+Muso Z Fan
+Jerry Yang
 
 物联网套件是阿里云专门为物联网领域的开发人员推出的, 其目的是帮助开发者搭建安全且性能强大的数据通道, 方便终端(如传感器, 执行器, 嵌入式设备或智能家电等等)和云端的双向通信.
 
+阿里云
 -   **[官方代码首页](https://github.com/aliyun/iotkit-embedded)**
 -   **[官方维基首页](https://github.com/aliyun/iotkit-embedded/wiki)**
 
@@ -74,7 +78,7 @@
 
 登录Linux, 运行如下命令从github克隆代码, 或者访问最新地址[下载页面](https://github.com/aliyun/iotkit-embedded/releases/latest), **将下载到的压缩包在Linux上解压缩**
 
-    $ git clone https://github.com/aliyun/iotkit-embedded
+    $ git clone https://github.com/mfworkgroup/uabb2017
 
 #### **2. 填入设备信息**
 

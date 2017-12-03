@@ -38,9 +38,9 @@
     #define DEVICE_NAME             "00AAAAAABBBBBB4B645F5800"
     #define DEVICE_SECRET           "v9mqGzepKEphLhXmAoiaUIR2HZ7XwTky"
 #else
-    #define PRODUCT_KEY             "yfTuLfBJTiL"
-    #define DEVICE_NAME             "TestDeviceForDemo"
-    #define DEVICE_SECRET           "fSCl9Ns5YPnYN8Ocg0VEel1kXFnRlV6c"
+    #define PRODUCT_KEY             "n60O6k3LPyA"
+    #define DEVICE_NAME             "raspus"
+    #define DEVICE_SECRET           "GAv542YaK0ITtxkRMAHViNXaZiiYkDIL"
 #endif
 
 /* These are pre-defined topics */
@@ -447,4 +447,3 @@ int main(int argc, char **argv)
 
     return 0;
 }
-
